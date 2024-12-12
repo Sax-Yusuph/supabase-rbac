@@ -68,10 +68,6 @@ New workspace can only be created using supabase service_role.
 When creating new tables, follow this [guide](docs/new-table.md) for implementing appropriate RLS policies to maintain data isolation and access control.
 
 ## Roadmap
-
-- Support for users belonging to multiple tenants
-- Implementation of unit tests
-- Policies for `workspace_resource_usage` table
 - Functionality to seed sample data
 
 ## Contributing
